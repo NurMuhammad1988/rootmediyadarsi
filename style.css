@@ -1,0 +1,42 @@
+body {
+    background: rgba(153, 205, 50, 0.664);
+}
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: 800px;
+    background: green;
+}
+
+
+.menu .box1 {
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+
+}
+
+
+
+.menu .box2 {}
+
+
+
+
+
+
+.box {
+
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}

@@ -1,0 +1,39 @@
+:root{
+
+    --rang1: red;
+    --rang2: blue;
+    --rang3: green;
+    --rang4:tomato;
+    --rang5: teal ;
+    --rang6: violet; 
+}
+
+
+h1{
+color: var(--rang1);
+}
+
+
+h2{
+color: var(--rang2);
+}   
+
+
+h3{
+color: var(--rang3);
+}
+
+
+h4{
+color: var(--rang4);
+}
+
+
+h5{
+color: var(--rang5);
+}
+
+
+h6{
+color: var(--rang6);
+}
